@@ -32,3 +32,6 @@ print("shivu")
 
 print("preethi")
 print("mangala")
+
+
+print(5+6)
